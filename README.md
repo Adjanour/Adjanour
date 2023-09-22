@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Adjanour&theme=dark" height="220" alt="streak graph"  />
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adjanour)](https://git.io/streak-stats)
