@@ -12,6 +12,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Adjanour&theme=dark" height="220" alt="streak graph" />
-</div>
+</div><br>
 
-> Copyright © Salem Inc.
+<div align="center"> 
+  Copyright © Salem Inc.
+</div>
