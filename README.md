@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... SMSX2
+- 🔭 I’m currently working on ... SMSX2 & TASK-TRIBE
 - 🌱 I’m currently learning ... C# and .NET Framework
 - 👯 I’m looking to collaborate on ... Any C# / Web Based Project
 - 🤔 I’m looking for help with ... A lot of things
@@ -15,5 +15,5 @@
 </div><br>
 
 <div align="center"> 
-  Copyright © Salem Inc.
+  Copyright © Africoda
 </div>
