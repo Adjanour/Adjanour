@@ -12,10 +12,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Adjanour&theme=carbonfox" height="220" alt="streak graph" />
-</div><br>
-<picture align="center" >
+  <picture align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Adjanour&show_icons=true&theme=radical" />
 </picture>
+</div><br>
+
 <div align="center"> 
   Copyright © Africoda
 </div>
