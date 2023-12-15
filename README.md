@@ -14,8 +14,8 @@
   <img src="https://streak-stats.demolab.com?user=Adjanour&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=adjanor&show_icons=true&theme=radical" />
-</picture>![Adjanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=adjanor&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Adjanor&show_icons=true&theme=radical" />
+</picture>
 <div align="center"> 
   Copyright © Africoda
 </div>
