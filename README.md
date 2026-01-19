@@ -1,8 +1,8 @@
 ![Banner](https://i.ibb.co/BVPkjGcW/B.png)
 
-🇬🇭 **Computer Scientist | Systems & Backend Engineer | Pan-African Technologist**
+<h3 align="center">🇬🇭 Computer Scientist | Systems & Backend Engineer | Pan-African Technologist</h3>
 
-CTO at **Orcta** · Building **Africoda**
+<p align="center">CTO at <strong>Orcta</strong> <strong>·</strong> <strong>Building Africoda</strong> </p>
 
 I design and build production systems with an emphasis on correctness, durability, and operational clarity.
 
@@ -18,11 +18,3 @@ I care about using technology to create durable, meaningful impact across Africa
 If you care about craftsmanship, focus, and building things that survive contact with reality, we’ll probably work well together.
 
 **Core areas:** Backend & systems engineering · Architecture · Distributed systems · Developer productivity · Technical leadership
-
-### Connect
-
-Email: [**Adjanour@icloud.com**](mailto:Adjanour@icloud.com)
-
-X: [**@kirk_katamanso**](https://x.com/kirk_katamanso)
-
-LinkedIn: [**kirk-katamanso**](www.linkedin.com/in/kirk-katamanso)
